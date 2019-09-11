@@ -1,0 +1,32 @@
+h1 {
+  color: $white;
+  font-size: $xx-large;
+  font-family: $playfair;
+  font-weight: $bold;
+  text-align: center;
+  font-style: oblique;
+
+}
+
+h2 {
+  color: $raisin-black;
+  font-family: $playfair;
+  font-size: $large;
+  font-weight: $regular;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+  .container__parrafos {
+    font-family: $roboto;
+    color: $raisin-black;
+    font-size: $medium;
+    font-weight: $regular;
+    }
+.paginations{
+  font-family: $roboto;
+  font-size: $medium;
+  font-weight: $regular;
+  color: $eerie-black;
+  background-color: $white;
+
+}

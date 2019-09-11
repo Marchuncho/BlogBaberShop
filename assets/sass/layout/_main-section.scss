@@ -1,0 +1,30 @@
+.container{
+  text-align: left;
+    &__parrafos{
+      text-align: left;
+    }
+
+}
+.SectionNoemi{
+ padding-top: 3rem;
+ width: 80%;
+ margin: auto;
+}
+
+
+.page-link{
+  color: $eerie-black;
+}
+
+.footerLogo{
+background-color: $eerie-black;
+height: auto;
+margin: 0;
+&__logo {
+    padding-left: 33rem;
+
+}
+}
+.navbar{
+  background-color: $eerie-black;
+}

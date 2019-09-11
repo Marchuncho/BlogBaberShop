@@ -1,0 +1,17 @@
+.header {
+background-image: url(../images/post-image.jpg);
+height: 700px;
+margin: 0;
+background-repeat: no-repeat;
+background-size: cover;
+&__title{
+    padding-top: 12rem;
+    color: $white;
+    text-align: center;
+    }
+}
+i {
+  padding-left: 40rem;
+  color: $white;
+  padding-top: 10rem;
+}
