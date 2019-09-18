@@ -9,6 +9,28 @@
  padding-top: 3rem;
  width: 80%;
  margin: auto;
+ &__Description{
+   padding-top: 2rem;
+
+ }
+ &__Description--link{
+   padding-left: 4rem !important;
+   padding-top: 3rem !important;
+ }
+ &__Description--link1{
+   padding-top: 1rem;
+   color: $rudy-pink;
+   font-family: $roboto;
+   font-weight: $ligth;
+   font-size: $large;
+ }
+ &__Description--link2{
+   padding-top: 1rem;
+   color: $rudy-pink;
+   font-family: $roboto;
+   font-weight: $ligth;
+   font-size: $large;
+ }
 }
 
 

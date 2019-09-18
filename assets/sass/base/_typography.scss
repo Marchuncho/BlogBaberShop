@@ -28,5 +28,23 @@ h2 {
   font-weight: $regular;
   color: $eerie-black;
   background-color: $white;
-
 }
+h3 {
+  font-family: $playfair;
+  font-weight: $bold;
+  font-style: oblique;
+  font-size: $x-large;
+}
+
+p{
+  font-family: $roboto;
+  font-weight: $ligth;
+  font-size: $large;
+  }
+  .TextColors {
+    color: $white !important;
+    font-weight:  $regular;
+    font-size:  $medium;
+    font-family: $roboto;
+  }
+  

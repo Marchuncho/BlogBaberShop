@@ -9661,7 +9661,6 @@ body {
 
 li {
   list-style: none;
-  padding-bottom: 3rem;
 }
 
 h1 {
@@ -9697,6 +9696,26 @@ h2 {
   background-color: #fff;
 }
 
+h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
+  font-style: oblique;
+  font-size: 30px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.TextColors {
+  color: #fff !important;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+}
+
 .header {
   background-image: url(../images/post-image.jpg);
   height: 700px;
@@ -9727,6 +9746,27 @@ i {
   padding-top: 3rem;
   width: 80%;
   margin: auto;
+}
+.SectionNoemi__Description {
+  padding-top: 2rem;
+}
+.SectionNoemi__Description--link {
+  padding-left: 4rem !important;
+  padding-top: 3rem !important;
+}
+.SectionNoemi__Description--link1 {
+  padding-top: 1rem;
+  color: #d76c69;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+.SectionNoemi__Description--link2 {
+  padding-top: 1rem;
+  color: #d76c69;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
 }
 
 .page-link {
@@ -9765,6 +9805,16 @@ i {
   background-color: #6c6e70;
   border-radius: 25px;
   border: 1px solid #121619;
+}
+
+.page-item:last-child .page-link {
+  border-top-right-radius: 2rem !important;
+  border-bottom-right-radius: 2rem !important;
+}
+
+.redondearBordes {
+  border-top-left-radius: 2rem !important;
+  border-bottom-left-radius: 2rem !important;
 }
 
 /*# sourceMappingURL=main.css.map */
